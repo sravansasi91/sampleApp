@@ -1,2 +1,2 @@
-# sampleApp
-LoginPage
+# SampleApp_bridge
+SampleApp_bridge
